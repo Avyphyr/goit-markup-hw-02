@@ -1,5 +1,4 @@
-/* font-family: 'Raleway', sans-serif;
-font-family: 'Roboto', sans-serif; */
+
 :root {
   --WHITE: #fff;
   --NAVY-BLUE: #2e2f42;
@@ -53,7 +52,7 @@ footer .logo-alt:focus {
 }
 
 .logo {
-  font-family:"Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway;
   font-size: 18px;
@@ -137,7 +136,7 @@ footer .logo-alt:focus {
   text-transform: capitalize;
   
 }
-.header2 {
+.header2{
   color: #2e2f42;
   font-size: 36px;
   font-style: normal;
@@ -150,7 +149,7 @@ footer .logo-alt:focus {
   
 }
 
-.header3 {
+.header3{
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
   font-style: normal;
