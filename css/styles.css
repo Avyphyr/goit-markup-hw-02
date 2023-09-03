@@ -1,0 +1,145 @@
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
+:root {
+  --WHITE: #fff;
+  --NAVY-BLUE: #2e2f42;
+  --IRIS: #4d5ae5;
+  --SLATE: #434455;
+}
+ul {
+  list-style-type: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
+
+.logo:hover,
+.logo:focus {
+  color: #4d5ae5;
+}
+
+.logo-alt:hover,
+.logo-alt:focus {
+  color: #2e2f42;
+}
+
+footer .logo-alt:hover,
+footer .logo-alt:focus {
+  color: #f4f4fd;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  color: var(--IRIS, #4d5ae5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.logo-alt {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.navigation-bar-sections li a {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+}
+.contact-info li a {
+  color: var(--SLATE, #434455);
+  text-decoration: none;
+}
+.hero {
+  background-color: #2e2f42;
+}
+.hero-title {
+  color: var(--WHITE, #fff);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+}
+.hero-button {
+  background: #4d5ae5;
+  cursor: pointer;
+  color: #ffffff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
+
+.header2-title {
+  color: var(--NAVY-BLUE);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.header3-title {
+  color: var(--NAVY-BLUE);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+footer .logo-alt {
+  color: #f4f4fd;
+  text-decoration: none;
+}
+.footer-text {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
