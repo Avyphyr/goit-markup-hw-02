@@ -128,7 +128,7 @@ footer .logo-alt:focus {
   font-size: 36px;
   font-style: normal;
   font-weight: 500;
-  line-height: 20px;
+  font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -139,7 +139,6 @@ footer .logo-alt:focus {
   font-size: 36px;
   font-style: normal;
   font-weight: 500;
-  line-height: 20px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
