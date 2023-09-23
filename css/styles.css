@@ -15,8 +15,8 @@ body {
   background-color: #fff;
   font-size: 16px;
   font-style: normal;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
 }
 
 a {
@@ -57,7 +57,7 @@ footer .logo-alt:focus {
   font-style: normal;
   font-weight: 700;
   line-height: 21px;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.034px;
   text-transform: uppercase;
   text-decoration: none;
   line-height: 1.17;
@@ -69,7 +69,7 @@ footer .logo-alt:focus {
   font-style: normal;
   font-weight: 700;
   line-height: 21px;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.034px;
   text-transform: uppercase;
   text-decoration: none;
   line-height: 1.17;
@@ -80,8 +80,8 @@ footer .logo-alt:focus {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 .contact-info li a {
@@ -89,10 +89,7 @@ footer .logo-alt:focus {
   text-decoration: none;
 }
 
-.sections {
-    background-color: #F4F4FD
 
-}
 
 .hero {
   background-color: #2e2f42;
@@ -102,8 +99,8 @@ footer .logo-alt:focus {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 60px; /* 107.143% */
-  letter-spacing: 1.12px;
+  line-height: 107.143%; 
+  letter-spacing: 0.07em;
   line-height: 1.07;
   text-align: center;
 }
@@ -138,7 +135,7 @@ footer .logo-alt:focus {
   color: #2e2f42;
   font-size: 36px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
@@ -151,8 +148,8 @@ footer .logo-alt:focus {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.4px;
+  line-height: 120%;
+  letter-spacing: 0.025em;
 }
 
 .team-members {
@@ -164,11 +161,10 @@ footer .logo-alt:focus {
 .type {
     font-family: "Roboto", sans-serif;
   color:var(--SLATE);
-  background-color: #fff;
   font-size: 16px;
   font-style: normal;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
     
 }
 .footer {
